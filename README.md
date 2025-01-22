@@ -1,8 +1,5 @@
 # 🔐 Azure Key Vault Secrets - JSON Import/Export Utility
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300.png/0078D4/FFFFFF?text=Azure+Key+Vault+Secrets+Manager+Utility" alt="Banner" width="800"/>
-</div>
 
 A user-friendly tool to bulk import/export secrets between Azure Key Vault and JSON files.  
 Developed by **Ajinkya Bapat** ([📧 ajinkyabapat12@gmail.com](mailto:ajinkyabapat12@gmail.com)).
